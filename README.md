@@ -57,6 +57,8 @@ another_cookie_string_here
 ```
 http://ip:port
 http://user:pass@ip:port
+socks5://ip:port
+socks4://ip:port
 ```
 
 3. Run the bot:
